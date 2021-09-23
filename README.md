@@ -18,7 +18,7 @@ I'm an aspiring software developer who loves to code!
 
 #### Discord Bots:
 - [Cinematic](https://github.com/amanvirparhar/cinematic): displays information on movies, including trailer links, ratings, runtime, actors, and more
-- [COVID 19 Discord Bot](https://github.com/amanvirparhar/covid-19-discord-bot): a real-time bot to track the COVID-19 pandemic
+- [COVID-19 Discord Bot](https://github.com/amanvirparhar/covid-19-discord-bot): a real-time bot to track the COVID-19 pandemic
 
 ...and more on my website [amanvir.com](https://www.amanvir.com)!
 
