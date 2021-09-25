@@ -13,7 +13,7 @@ I'm an aspiring software developer who loves to code!
 - [wikisnip](https://chrome.google.com/webstore/detail/wikisnip/hkhgaagmcgamkdjibgegkdmnlkaaejpd): a chrome extension to display wikipedia snippets on any website 
 
 #### NPM Packages:
-- [quizbowl npm package](https://www.npmjs.com/package/quizbowl): an npm package for developers looking to access quizbowl tossups
+- [quizbowl](https://www.npmjs.com/package/quizbowl): an npm package for developers looking to access quizbowl tossups
 - [profane-detect](https://www.npmjs.com/package/profane-detect): an npm package for profanity filtering based on pronunciation
 
 #### Discord Bots:
