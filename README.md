@@ -1,1 +1,7 @@
-![Banner](https://user-images.githubusercontent.com/46307450/236706337-2acf7bbf-157f-4d7c-a81f-d60fe475aa50.png)
+Hey there!
+
+I’m Amanvir, a 19-year-old founder with one previous exit. I'm currently working on [azigy](https://azigy.com/?ref=github), a platform that allows you to create and host live trivia, quizzes, and games for your events.
+
+I study Computer Science at the University of Maryland, College Park.
+
+For reference, here’s my [resume](https://amanvir.com/resume.pdf). If you’d like to reach out to me, please do so on [X/Twitter](https://x.com/amanvirparhar).
