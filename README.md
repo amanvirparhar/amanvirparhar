@@ -1,3 +1,7 @@
+![Thumbnail](https://amanvir.com/seo/main.png)
+
+---
+
 Hey there!
 
 I’m Amanvir, a 19-year-old founder with one previous exit. I'm currently working on [azigy](https://azigy.com/?ref=github), a platform that allows you to create and host live trivia, quizzes, and games for your events.
